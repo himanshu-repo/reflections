@@ -5,3 +5,7 @@ hidden folder .git is formed
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 Consists of the marked files which in their current version will go to the next commit snapshot
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+stage only the logical change that you want to commit, not all the files
